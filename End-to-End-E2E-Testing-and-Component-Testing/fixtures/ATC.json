@@ -1,0 +1,24 @@
+{
+
+    "category_menu": ".header-menu",
+    "first_product":":nth-child(1) > .product-item",
+    "second_product":":nth-child(2) > .product-item",
+    "click_atc_button" : "#add-to-cart-button-13",
+    "enter_qty" : "#addtocart_13_EnteredQuantity",
+    "product_name" : ".current-item",
+    "cart_item_name":".product-name",
+    "click_cart_icon" :".ico-cart > .cart-label",
+
+    "click_cart_remove_check" :".remove-from-cart > input",
+    "click_update_cart_button":".update-cart-button",
+    "cart_quantity_input":".qty-input",
+
+    "click_terms_service" : "#termsofservice",
+    "click_checkout_button" : "#checkout",
+    "empty_cart_message" : ".order-summary-content",
+    "add_to_wishlist_button":"",
+
+    "cart_quantity" : ".cart-qty",
+    "successful_content" : ".content"
+
+}

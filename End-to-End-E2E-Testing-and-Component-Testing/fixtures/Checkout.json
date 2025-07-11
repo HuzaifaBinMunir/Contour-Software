@@ -1,0 +1,60 @@
+{
+    "checkout_button":"#checkout",
+    "click_terms_service" : "#termsofservice",
+    "checkout_as_guest_button":".checkout-as-guest-button",
+
+    "billing_first_name":"#BillingNewAddress_FirstName",
+    "billing_last_name":"#BillingNewAddress_LastName",
+    "billing_email":"#BillingNewAddress_Email",
+    "billing_company":"#BillingNewAddress_Company",
+    "billing_country":"#BillingNewAddress_CountryId", 
+    "billing_state":"#BillingNewAddress_StateProvinceId", 
+    "billing_city":"#BillingNewAddress_City",
+    "billing_address":"#BillingNewAddress_Address1",
+    "billing_address2":"#BillingNewAddress_Address2",
+    "billing_zip":"#BillingNewAddress_ZipPostalCode",
+    "billing_phone":"#BillingNewAddress_PhoneNumber",
+    "billing_fax":"#BillingNewAddress_FaxNumber",
+
+    "billing_continue_button":"#billing-buttons-container > .button-1",
+    "pickup_store_button" : "#PickUpInStore",
+
+    "goback_billling_button" : "#shipping-buttons-container > .back-link > a",
+    "goback_shipping_button" : "#shipping-method-buttons-container > .back-link > a",
+    "goback_shipping_method_button" : "#payment-method-buttons-container > .back-link > a",
+    "goback_payment_method_button" : "#payment-info-buttons-container > .back-link > a",
+    "goback_payment_info_button":"#confirm-order-buttons-container > .back-link > a",
+
+
+    "shipping_continue_button":"#shipping-buttons-container > .button-1",
+    "shippingmethod_continue_button":"#shipping-method-buttons-container > .button-1",
+    "paymentmethod_continue_button":"#payment-method-buttons-container > .button-1",
+    "orderconfirmation_continue_button":"#confirm-order-buttons-container > .button-1",
+    "order_success_message" : "strong",
+
+    "shipping_option1":"#shippingoption_0",
+    "shipping_option2":"#shippingoption_1",
+    "shipping_option3":"#shippingoption_2",
+
+    "payment_option1":"#paymentmethod_0",
+    "payment_option2":"#paymentmethod_1",
+    "payment_option3":"#paymentmethod_2",
+    "payment_option4":"#paymentmethod_2",
+    
+    "PO_Number": "#PurchaseOrderNumber",
+
+    "continue_button_billing_address" : "#billing-buttons-container > .button-1",
+    "continue_button_shipping_address" : "#shipping-buttons-container > .button-1",
+    "select_shipping_method": "#shippingoption_1",
+    "continue_button_shipping_method" : "#shipping-method-buttons-container > .button-1",
+    "orderConfirm_continue_button" : "#payment-info-buttons-container > .button-1",
+    
+    "select_cod_button" : "#paymentmethod_0",
+    "continue_button_payment_method": "#payment-method-buttons-container > .button-1",
+    "continue_button_payment_information": "#payment-info-buttons-container > .button-1",
+    "continue_button_order_confirm": "#confirm-order-buttons-container > .button-1",
+    "select_card_button" : "#paymentmethod_2",
+    "enter_card_holder_name" : "#CardholderName",
+    "enter_card_number" : "#CardNumber",
+    "enter_card_code" :  "#CardCode"
+}

@@ -1,0 +1,16 @@
+{
+    "login_link" : ".ico-login",
+    "enter_email" : "#Email",
+    "enter_password": "#Password",
+    "click_rememberme" : "#RememberMe",
+    "click_login_button": "form > .buttons > .button-1",
+    "verify_login": ".header-links > ul > :nth-child(1) > .account",
+    "forgot_password_link" : ".forgot-password > a",
+    "recover_button" : "form > .buttons > .button-1",
+    "not_found_message_result" : ".result",
+    "forget_successful_send_result" : ".result",
+    "invalid_credential_message_1":".validation-summary-errors > span",
+    "invalid_credential_message_2" : ".validation-summary-errors > ul > li",
+    "invalid_credential_message_3":".field-validation-error > span"
+    
+}

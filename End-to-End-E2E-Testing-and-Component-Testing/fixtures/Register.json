@@ -1,0 +1,28 @@
+{
+    "register_link":".ico-register",
+    "click_radio" :"[type='radio']",
+    "gender_1":"#gender-male",
+    "gender_2":"#gender-female",
+    "enter_firstname" : "#FirstName",
+    "enter_lastname":"#LastName",
+    "enter_email":"#Email",
+    "enter_password": "#Password",
+    "enter_confirm_password": "#ConfirmPassword",
+    "click_register_button": "#register-button",
+    "click_continue_button": ".page-body > .buttons > .button-1",
+
+    "firstname_error" : ":nth-child(2) > .form-fields > :nth-child(2) > .field-validation-error > span",
+    "lastname_error" : ":nth-child(3) > .field-validation-error > span",
+    "email_error" : ":nth-child(4) > .field-validation-error > span",
+    "password_error" : ":nth-child(1) > .field-validation-error > span",
+    "confirm_password_error" : ":nth-child(1) > .field-validation-error > span",
+    "password_mismatch_error":".field-validation-error > span",
+    "invalid_email_format_error":".field-validation-error > span",
+
+    "verify_account_email":".header-links > ul > :nth-child(1) > .account",
+    "verify_result": ".result",
+    "password_length_message" : ":nth-child(1) > .field-validation-error > span",
+    "email_already_exists_error" : ".validation-summary-errors > ul > li",
+    "verify_personal_detail_title" : ".page-body > :nth-child(2) > .title > strong"
+    
+}
